@@ -1,7 +1,6 @@
 
-# MAKE - YOUR - GAME
-* `bbilisbe` 
-* `aaidana`
+# TETRIS
+* `blsbk` 
 
 
 
@@ -16,7 +15,7 @@ Supports basic game rules and rotation of tetrominoes.
 ## Usage/Examples
 Cloning storage to your host
 ```CMD/Terminal 
-git clone git@git.01.alem.school:bbilisbe/make-your-game.git
+git clone https://github.com/blsbk/tetris-game.git
 ```
 Go to the downloaded repository:
 
